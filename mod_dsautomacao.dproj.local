@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/08/17 16:16:09.000.742,=C:\Users\bh_so\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2019/08/17 16:16:13.000.786,=C:\Users\bh_so\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2019/08/17 18:43:59.000.317,=C:\Users\bh_so\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2019/08/17 18:43:59.000.469,=C:\Users\bh_so\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2019/08/17 19:13:22.000.277,C:\Users\bh_so\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.dfm=D:\Projetos\Web\Automacao\dsAutomacao\uWebModule.dfm</Transaction>
+    <Transaction>2019/08/17 19:13:22.000.277,C:\Users\bh_so\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas=D:\Projetos\Web\Automacao\dsAutomacao\uWebModule.pas</Transaction>
+    <Transaction>2019/08/17 19:13:27.000.448,C:\Users\bh_so\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas=D:\Projetos\Web\Automacao\dsAutomacao\uMetodos.pas</Transaction>
+    <Transaction>2019/08/17 19:13:27.000.448,C:\Users\bh_so\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.dfm=D:\Projetos\Web\Automacao\dsAutomacao\uMetodos.dfm</Transaction>
+    <Transaction>2019/08/17 19:13:29.000.762,C:\Users\bh_so\Documents\Embarcadero\Studio\Projects\mod_dsautomacao.dproj=D:\Projetos\Web\Automacao\dsAutomacao\mod_dsautomacao.dproj</Transaction>
+    <Transaction>2019/08/18 02:54:23.000.708,=D:\Projetos\Web\Automacao\dsAutomacao\Unit1.pas</Transaction>
+    <Transaction>2019/08/18 03:00:25.000.591,D:\Projetos\Web\Automacao\dsAutomacao\Unit1.pas=D:\Projetos\Web\Automacao\dsAutomacao\uSensores.pas</Transaction>
+    <Transaction>2019/08/26 19:27:02.000.488,D:\Projetos\Web\Automacao\dsAutomacao\uSensores.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

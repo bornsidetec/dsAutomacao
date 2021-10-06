@@ -1,0 +1,39 @@
+unit uSensores;
+
+interface
+
+Type
+  TSensores = class
+  private
+    FSerie: string;
+    FPorta: string;
+    FIP: string;
+    procedure SetIP(const Value: string);
+    procedure SetPorta(const Value: string);
+    procedure SetSerie(const Value: string);
+  published
+    property IP: string read FIP write SetIP;
+    property Porta: string read FPorta write SetPorta;
+    property Serie: string read FSerie write SetSerie;
+  end;
+
+implementation
+
+{ TSensores }
+
+procedure TSensores.SetIP(const Value: string);
+begin
+  FIP := Value;
+end;
+
+procedure TSensores.SetPorta(const Value: string);
+begin
+  FPorta := Value;
+end;
+
+procedure TSensores.SetSerie(const Value: string);
+begin
+  FSerie := Value;
+end;
+
+end.
